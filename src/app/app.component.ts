@@ -1,4 +1,7 @@
 import { Component } from '@angular/core';
+//import { tileLayer, Map, latLngBounds, divIcon, point, geoJSON, latLng, marker as leafletmarker } from 'leaflet';
+import * as L from "leaflet";
+import { HttpClient } from "@angular/common/http";
 
 @Component({
   selector: 'app-root',
@@ -6,5 +9,8 @@ import { Component } from '@angular/core';
   styleUrls: ['./app.component.scss']
 })
 export class AppComponent {
-  title = 'Ngx-leafDemo';
+  constructor() {
+
+  }
+  
 }

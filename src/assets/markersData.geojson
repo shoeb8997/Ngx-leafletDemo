@@ -1,0 +1,275 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+      {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            81.1496,
+            -37.3159
+          ]
+        },
+        "properties": {
+          "name": {
+            "val": "Leanne Graham",
+            "title": "name",
+            "required": true
+          },
+          "phone": {
+            "val": "1-770-736-8031 x56442",
+            "title": "phone",
+            "required": true
+          },
+          "email": {
+            "val": "Sincere@april.biz",
+            "title": "email",
+            "required": true
+          }
+        }
+      },
+      {
+        "properties": {
+          "name": {
+            "val": "Ervin Howell",
+            "title": "name",
+            "required": true
+          },
+          "phone": {
+            "val": "010-692-6593 x09125",
+            "title": "phone",
+            "required": true
+          },
+          "email": {
+            "val": "Shanna@melissa.tv",
+            "title": "email",
+            "required": true
+          }
+        },
+        "geometry": {
+          "coordinates": [
+            -34.4618,
+            -43.9509
+          ],
+          "type": "Point"
+        },
+        "type": "Feature"
+      },
+      {
+        "properties": {
+          "name": {
+            "val": "Clementine Bauch",
+            "title": "name",
+            "required": true
+          },
+          "phone": {
+            "val": "1-463-123-4447",
+            "title": "phone",
+            "required": true
+          },
+          "email": {
+            "val": "Nathan@yesenia.net",
+            "title": "email",
+            "required": true
+          }
+        },
+        "geometry": {
+          "coordinates": [
+            -47.0653,
+            -68.6102
+          ],
+          "type": "Point"
+        },
+        "type": "Feature"
+      },
+      {
+        "properties": {
+          "name": {
+            "val": "Patricia Lebsack",
+            "title": "name",
+            "required": true
+          },
+          "phone": {
+            "val": "493-170-9623 x156",
+            "title": "phone",
+            "required": true
+          },
+          "email": {
+            "val": "Julianne.OConner@kory.org",
+            "title": "email",
+            "required": true
+          }
+        },
+        "geometry": {
+          "coordinates": [
+            -164.299,
+            29.4572
+          ],
+          "type": "Point"
+        },
+        "type": "Feature"
+      },
+      {
+        "properties": {
+          "name": {
+            "val": "Chelsey Dietrich",
+            "title": "name",
+            "required": true
+          },
+          "phone": {
+            "val": "(254)954-1289",
+            "title": "phone",
+            "required": true
+          },
+          "email": {
+            "val": "Lucio_Hettinger@annie.ca",
+            "title": "email",
+            "required": true
+          }
+        },
+        "geometry": {
+          "coordinates": [
+            62.5342,
+            -31.8129
+          ],
+          "type": "Point"
+        },
+        "type": "Feature"
+      },
+      {
+        "properties": {
+          "name": {
+            "val": "Mrs. Dennis Schulist",
+            "title": "name",
+            "required": true
+          },
+          "phone": {
+            "val": "1-477-935-8478 x6430",
+            "title": "phone",
+            "required": true
+          },
+          "email": {
+            "val": "Karley_Dach@jasper.info",
+            "title": "email",
+            "required": true
+          }
+        },
+        "geometry": {
+          "coordinates": [
+            71.7478,
+            -71.4197
+          ],
+          "type": "Point"
+        },
+        "type": "Feature"
+      },
+      {
+        "properties": {
+          "name": {
+            "val": "Kurtis Weissnat",
+            "title": "name",
+            "required": true
+          },
+          "phone": {
+            "val": "210.067.6132",
+            "title": "phone",
+            "required": true
+          },
+          "email": {
+            "val": "Telly.Hoeger@billy.biz",
+            "title": "email",
+            "required": true
+          }
+        },
+        "geometry": {
+          "coordinates": [
+            21.8984,
+            24.8918
+          ],
+          "type": "Point"
+        },
+        "type": "Feature"
+      },
+      {
+        "properties": {
+          "name": {
+            "val": "Nicholas Runolfsdottir V",
+            "title": "name",
+            "required": true
+          },
+          "phone": {
+            "val": "586.493.6943 x140",
+            "title": "phone",
+            "required": true
+          },
+          "email": {
+            "val": "Sherwood@rosamond.me",
+            "title": "email",
+            "required": true
+          }
+        },
+        "geometry": {
+          "coordinates": [
+            -120.7677,
+            -14.399
+          ],
+          "type": "Point"
+        },
+        "type": "Feature"
+      },
+      {
+        "properties": {
+          "name": {
+            "val": "Glenna Reichert",
+            "title": "name",
+            "required": true
+          },
+          "phone": {
+            "val": "(775)976-6794 x41206",
+            "title": "phone",
+            "required": true
+          },
+          "email": {
+            "val": "Chaim_McDermott@dana.io",
+            "title": "email",
+            "required": true
+          }
+        },
+        "geometry": {
+          "coordinates": [
+            -168.8889,
+            24.6463
+          ],
+          "type": "Point"
+        },
+        "type": "Feature"
+      },
+      {
+        "properties": {
+          "name": {
+            "val": "Clementina DuBuque",
+            "title": "name",
+            "required": true
+          },
+          "phone": {
+            "val": "024-648-3804",
+            "title": "phone",
+            "required": true
+          },
+          "email": {
+            "val": "Rey.Padberg@karina.biz",
+            "title": "email",
+            "required": true
+          }
+        },
+        "geometry": {
+          "coordinates": [
+            57.2232,
+            -38.2386
+          ],
+          "type": "Point"
+        },
+        "type": "Feature"
+      }
+    ]
+  }
